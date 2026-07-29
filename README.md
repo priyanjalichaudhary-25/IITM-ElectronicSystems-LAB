@@ -8,7 +8,7 @@ This repo is separate from my [JUIT VLSI Lab Portfolio](../vlsi-lab-portfolio) s
 
 | Folder | Description |
 |---|---|
-| [`scopex-lab-sessions/`](./scopex-lab-sessions) | Electronic Systems Thinking and Circuits Laboratory — weekly hands-on lab work using the ScopeX Advanced Oscilloscope, including an original troubleshooting/documentation write-up |
+| [`scopex-lab-sessions/`](./scopex-lab-sessions) | Electronics Laboratory — weekly hands-on lab work using the ScopeX Advanced Oscilloscope, including an original troubleshooting/documentation write-up |
 
 More folders will be added here as coursework progresses through further terms and lab courses.
 
