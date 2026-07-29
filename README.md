@@ -2,7 +2,7 @@
 
 Coursework, lab work, and project documentation from the **BS in Electronic Systems** program at IIT Madras (hybrid degree program).
 
-This repo is separate from my [JUIT VLSI Lab Portfolio](../vlsi-lab-portfolio) since the two are distinct degree programs with different curricula — this one tracks the broader Electronic Systems coursework (circuits, signals & systems, embedded programming, DSP, etc.) as I progress through Foundation → Diploma → BS levels.
+This repo is separate from my [JUIT VLSI Lab Portfolio](../VLSI-Lab-Portfolio) since the two are distinct degree programs with different curricula — this one tracks the broader Electronic Systems coursework (circuits, signals & systems, embedded programming, DSP, etc.) as I progress through Foundation → Diploma → BS levels.
 
 ## Repository Structure
 
