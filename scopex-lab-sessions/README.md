@@ -1,6 +1,6 @@
 # ScopeX Lab Sessions — Electronics Laboratory (IIT Madras BS Electronic Systems)
 
-Hands-on electronics lab work for the **Electronic Systems Thinking and Circuits Laboratory**, performed on the **ScopeX Advanced Oscilloscope** (Bumblebee Instruments) — notably adapted on the fly from assignments originally written for the ADALM1000 / Analog Discovery workflow.
+Hands-on electronics lab work for the **Electronics Laboratory**, performed on the **ScopeX Advanced Oscilloscope** (Bumblebee Instruments) — notably adapted on the fly from assignments originally written for the ADALM1000 / Analog Discovery workflow.
 
 ## 🏆 Highlight: ScopeX Challenges Log & Recommendations
 
